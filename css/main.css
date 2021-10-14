@@ -1,0 +1,35 @@
+header	{
+	background-color: #505050;
+	padding: 1rem;
+	align-content: center;
+}
+
+body	{
+	background-color: #434141;
+	padding: 2rem;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 2rem;
+	font-family: "Century Old Style", Times, serif;
+}
+
+h2 {
+	color: white;
+	font-size: 3rem;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+footer	{
+	background-color: #505050;
+	padding: 1rem;
+}
